@@ -87,7 +87,7 @@
 
 ## 📥 تحميل البرنامج
 
-**[⬇️ تحميل Bookbinder_Setup_v2.exe](https://github.com/YOUR_USERNAME/Bookbinder.dz/releases/latest)**
+https://github.com/mohamedbouabdallah484-max/Bookbinder.dz/releases/tag/v%2C2%2C0%2C0
 
 ---
 
